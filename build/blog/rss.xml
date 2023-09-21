@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>阴茎锻炼手册 Blog</title>
+        <link>https://jiba.plus/blog</link>
+        <description>阴茎锻炼手册 Blog</description>
+        <lastBuildDate>Fri, 22 Sep 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[本站更新了！！！]]></title>
+            <link>https://jiba.plus/blog/welcome</link>
+            <guid>https://jiba.plus/blog/welcome</guid>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[自 2009 年建站以来，该版本于 2011 年改过一次，直至今日 10 余载未曾更新过。可想站长是多么拖延的一个人，佩服佩服！！！]]></description>
+            <content:encoded><![CDATA[<p>自 2009 年建站以来，该版本于 2011 年改过一次，直至今日 10 余载未曾更新过。可想站长是多么拖延的一个人，佩服佩服！！！</p><p>经过 10 多年的沉淀，终于在 2023 年 9 月 22 日迎来了重大更新，为什么是今日？</p><p>因为 922 的寓意不错，就爱爱，久爱爱！非常契合我们的目标！</p><p>算了，不写了，继续拖延！</p>]]></content:encoded>
+            <category>更新</category>
+            <category>历程</category>
+        </item>
+        <item>
+            <title><![CDATA[关于本站]]></title>
+            <link>https://jiba.plus/blog/about</link>
+            <guid>https://jiba.plus/blog/about</guid>
+            <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[改天再慢慢说说本站的心路历程]]></description>
+            <content:encoded><![CDATA[<p>改天再慢慢说说本站的心路历程</p>]]></content:encoded>
+            <category>关于</category>
+            <category>历程</category>
+        </item>
+    </channel>
+</rss>

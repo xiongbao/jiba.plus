@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jiba.plus/blog</id>
+    <title>阴茎锻炼手册 Blog</title>
+    <updated>2023-09-22T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jiba.plus/blog"/>
+    <subtitle>阴茎锻炼手册 Blog</subtitle>
+    <icon>https://jiba.plus/img/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[本站更新了！！！]]></title>
+        <id>https://jiba.plus/blog/welcome</id>
+        <link href="https://jiba.plus/blog/welcome"/>
+        <updated>2023-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[自 2009 年建站以来，该版本于 2011 年改过一次，直至今日 10 余载未曾更新过。可想站长是多么拖延的一个人，佩服佩服！！！]]></summary>
+        <content type="html"><![CDATA[<p>自 2009 年建站以来，该版本于 2011 年改过一次，直至今日 10 余载未曾更新过。可想站长是多么拖延的一个人，佩服佩服！！！</p><p>经过 10 多年的沉淀，终于在 2023 年 9 月 22 日迎来了重大更新，为什么是今日？</p><p>因为 922 的寓意不错，就爱爱，久爱爱！非常契合我们的目标！</p><p>算了，不写了，继续拖延！</p>]]></content>
+        <author>
+            <name>达·吉巴</name>
+            <uri>https://jiba.plus</uri>
+        </author>
+        <category label="更新" term="更新"/>
+        <category label="历程" term="历程"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于本站]]></title>
+        <id>https://jiba.plus/blog/about</id>
+        <link href="https://jiba.plus/blog/about"/>
+        <updated>2023-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[改天再慢慢说说本站的心路历程]]></summary>
+        <content type="html"><![CDATA[<p>改天再慢慢说说本站的心路历程</p>]]></content>
+        <author>
+            <name>达·吉巴</name>
+            <uri>https://jiba.plus</uri>
+        </author>
+        <category label="关于" term="关于"/>
+        <category label="历程" term="历程"/>
+    </entry>
+</feed>

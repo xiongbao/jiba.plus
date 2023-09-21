@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjiba_plus=self.webpackChunkjiba_plus||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u672c\u7ad9\u66f4\u65b0\u4e86\uff01\uff01\uff01","permalink":"/blog/welcome"},{"title":"\u5173\u4e8e\u672c\u7ad9","permalink":"/blog/about"}]}')}}]);

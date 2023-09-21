@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjiba_plus=self.webpackChunkjiba_plus||[]).push([[6670],{9310:a=>{a.exports=JSON.parse('{"label":"\u66f4\u65b0","permalink":"/blog/tags/\u66f4\u65b0","allTagsPath":"/blog/tags","count":1}')}}]);

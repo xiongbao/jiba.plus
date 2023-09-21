@@ -1,0 +1,21 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 100px;
+  width: 100px;
+}
+
+.featureImg {
+  display: flex;
+  height: 200px;
+  margin: 0 0 1em;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  background-color: var(--ifm-color-feature-img);
+}
