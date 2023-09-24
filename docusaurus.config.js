@@ -79,18 +79,13 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/xiongbao/jiba.plus/discussions',
-            label: '💬 交流社区',
+            href: 'https://t.me/+q8AlqFpmuQU2NTNh',
+            label: '💬 交流电报',
             position: 'right',
           },
           {
             href: 'https://self.giving',
             label: '💋 捐助本站',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/xiongbao/jiba.plus',
-            label: 'GitHub',
             position: 'right',
           },
         ],
