@@ -98,6 +98,14 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      announcementBar: {
+        id: 'support_us',
+        content:
+          '本站备用镜像：<a target="_blank" href="https://yinjing.net" style="color:#c00;font-weight:bold;">yinjing.net</a>',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: true,
+      },
     }),
 };
 
