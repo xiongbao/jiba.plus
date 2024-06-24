@@ -31,11 +31,21 @@ const config = {
     defaultLocale: 'zh-Hans',
     locales: ['zh-Hans'],
   },
-  scripts: [
-    {
-      src: 'https://hm.baidu.com/hm.js?a211e998bacc778bd7f0fd867d1ce7ac',
-      defer: true
-    },
+
+  plugins: [
+    [
+      "@dipakparmar/docusaurus-plugin-umami",
+      ({
+        websiteID: "275914be-8206-4332-b6da-3f1f9a25ce36", // Required
+        analyticsDomain: "fang.ke", // Required
+        scriptName: "sb", // Optional
+        dataHostURL: "https://jiba.plus", // Optional
+        dataAutoTrack: true, // Optional
+        dataDoNotTrack: true, // Optional
+        dataCache: true, // Optional
+        dataDomains: "jiba.plus", // comma separated list of domains, *Recommended*
+      }),
+    ],
   ],
 
   presets: [
