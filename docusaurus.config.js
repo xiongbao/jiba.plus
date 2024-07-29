@@ -36,7 +36,7 @@ const config = {
     {
       src: 'https://fang.ke/sb',
       defer: true,
-      dataWebsiteId: "275914be-8206-4332-b6da-3f1f9a25ce36",
+      "data-website-id": "275914be-8206-4332-b6da-3f1f9a25ce36",
     },
   ],
 
