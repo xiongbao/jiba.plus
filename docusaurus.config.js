@@ -32,20 +32,12 @@ const config = {
     locales: ['zh-Hans'],
   },
 
-  plugins: [
-    [
-      "@dipakparmar/docusaurus-plugin-umami",
-      ({
-        websiteID: "275914be-8206-4332-b6da-3f1f9a25ce36", // Required
-        analyticsDomain: "fang.ke", // Required
-        scriptName: "sb", // Optional
-        dataHostURL: "https://jiba.plus", // Optional
-        dataAutoTrack: true, // Optional
-        dataDoNotTrack: true, // Optional
-        dataCache: true, // Optional
-        dataDomains: "jiba.plus", // comma separated list of domains, *Recommended*
-      }),
-    ],
+  scripts: [
+    {
+      src: 'https://fang.ke/sb',
+      defer: true,
+      dataWebsiteId: "275914be-8206-4332-b6da-3f1f9a25ce36",
+    },
   ],
 
   presets: [
@@ -111,7 +103,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '本站备用镜像：<a target="_blank" href="https://yinjing.net" style="color:#c00;font-weight:bold;">yinjing.net</a>',
+          '本站备用镜像：<a target="_blank" href="https://yinjing.net" style="color:#c00;font-weight:bold;">yinjing.net</a>，<a target="_blank" href="https://jiba.ing" style="color:#c00;font-weight:bold;">jiba.ing(硬)</a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,
