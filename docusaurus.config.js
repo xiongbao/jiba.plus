@@ -38,12 +38,6 @@ const config = {
       defer: true,
       "data-website-id": "275914be-8206-4332-b6da-3f1f9a25ce36",
     },
-    {
-      src: 'https://api.pirsch.io/pa.js',
-      defer: true,
-      id: "pianjs",
-      "data-code": "vXIQP3Hg1NTBAFn93qoNcIpooDqQCTXb",
-    },
   ],
 
   presets: [
@@ -114,6 +108,7 @@ const config = {
         textColor: '#091E42',
         isCloseable: true,
       },
+      clientModules: [require.resolve('./src/umamiCustomEvents.js')],
     }),
 };
 
