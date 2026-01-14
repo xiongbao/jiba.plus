@@ -94,7 +94,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `©${new Date().getFullYear()} JIBA.PLUS(Since 2009), Built with Docusaurus.`,
+        copyright: `©JIBA.PLUS(Since 2009), Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
